@@ -1,19 +1,22 @@
-<AssetMetadata version="0" type="Level" guid="5d504153-c3f4-765d-2d45-fa42ab59b833" source="" timestamp="1608947020">
+<AssetMetadata version="0" type="Level" guid="5d504153-c3f4-765d-2d45-fa42ab59b833" source="" timestamp="1608970460">
  <Files>
   <File path="flappy_boid/flappy_boid.level"/>
  </Files>
  <Dependencies>
   <Path usageCount="1">%ENGINE%/EngineAssets/Shading/default.env</Path>
-  <Path>%editor%/crydesigner_timeofday.xml</Path>
-  <Path>%editor%/leveltemplates.xml</Path>
-  <Path>%editor%/mapscreenshotsettings.xml</Path>
-  <Path>%editor%/mbttemplates.xml</Path>
-  <Path>%editor%/modellingpanel.xml</Path>
-  <Path>%editor%/objecttemplates.xml</Path>
-  <Path>%editor%/propertyenumerations.xml</Path>
-  <Path>%editor%/soundtemplates.xml</Path>
-  <Path>%editor%/toolbox.xml</Path>
-  <Path>%editor%/usertools.xml</Path>
+  <Path>%editor%/materials/areasolid.dds</Path>
+  <Path>%editor%/materials/areasolid.mtl</Path>
+  <Path>%editor%/materials/shaderlist.xml</Path>
+  <Path>%editor%/objects/gradf.dds</Path>
+  <Path>%editor%/objects/helper.mtl</Path>
+  <Path>%editor%/objects/helper_illum.mtl</Path>
+  <Path>%editor%/objects/mtlbox.cgf</Path>
+  <Path>%editor%/objects/mtlobjects.mtl</Path>
+  <Path>%editor%/objects/mtlplane.cgf</Path>
+  <Path>%editor%/objects/mtlsphere.cgf</Path>
+  <Path>%editor%/objects/mtlteapot.cgf</Path>
+  <Path>%editor%/objects/spawnpointhelper.cgf</Path>
+  <Path>%editor%/objects/t.cgf</Path>
   <Path>%engine%/engineassets/icons/averagememoryusage.dds</Path>
   <Path>%engine%/engineassets/icons/highmemoryusage.dds</Path>
   <Path>%engine%/engineassets/icons/livepreview.dds</Path>
@@ -25,10 +28,15 @@
   <Path>%engine%/engineassets/materials/fog/oceanoutof.mtl</Path>
   <Path>%engine%/engineassets/materials/fog/oceanoutoflowspec.mtl</Path>
   <Path>%engine%/engineassets/materials/material_terrain_default.mtl</Path>
+  <Path>%engine%/engineassets/materials/meshimporter/mi_previewvertexalpha.mtl</Path>
+  <Path>%engine%/engineassets/materials/meshimporter/mi_previewvertexcolor.mtl</Path>
   <Path>%engine%/engineassets/materials/water/ocean_default.mtl</Path>
   <Path>%engine%/engineassets/materials/water/wateroceanbottom.mtl</Path>
   <Path>%engine%/engineassets/objects/primitive_sphere.cgf</Path>
+  <Path>%engine%/engineassets/texturemsg/color_black.dds</Path>
   <Path>%engine%/engineassets/texturemsg/defaultnouvs.dds</Path>
+  <Path>%engine%/engineassets/textures/default_probe_cm.dds</Path>
+  <Path>%engine%/engineassets/textures/default_probe_cm_diff.dds</Path>
   <Path>%engine%/engineassets/textures/grey.dds</Path>
   <Path>%engine%/engineassets/textures/skys/night/half_moon.dds</Path>
   <Path>animations/human/male/additive/additive_breathing_heavy_01.caf</Path>
@@ -539,6 +547,7 @@
   <Path>animations/mannequin/adb/selectiontags.xml</Path>
   <Path>animations/mannequin/adb/switchfiremodetarget.xml</Path>
   <Path>engineassets/textures/grey.dds</Path>
+  <Path>entities.xml</Path>
   <Path>libs/actiongraphs/sdk_explosion.xml</Path>
   <Path>libs/config/controller/buttonlayout_alt.xml</Path>
   <Path>libs/config/controller/buttonlayout_altlefty.xml</Path>
@@ -570,6 +579,7 @@
   <Path>libs/particles/weapon_fx.xml</Path>
   <Path>libs/particles/weather.xml</Path>
   <Path>libs/ui//texturepreload.xml</Path>
+  <Path>libs/ui/objectives_global.xml</Path>
   <Path>materials/decals/blood/human_body.mtl</Path>
   <Path>materials/decals/concrete/concrete_crack1.mtl</Path>
   <Path>materials/decals/concrete/concrete_crack2.mtl</Path>
@@ -587,7 +597,15 @@
   <Path>materials/decals/rock/rock_sandy.mtl</Path>
   <Path>materials/decals/snow/snow_melt.mtl</Path>
   <Path>materials/decals/wood/wood_planks.mtl</Path>
-  <Path>materials/hud/hud3d.mtl</Path>
+  <Path>materials/generic/wood/barrel_wood.mtl</Path>
+  <Path>materials/generic/wood/floor_wood_4.mtl</Path>
+  <Path>materials/generic/wood/pine_timber.mtl</Path>
+  <Path>materials/generic/wood/wall_wood_3.mtl</Path>
+  <Path>materials/generic/wood/wood_beams_a.mtl</Path>
+  <Path>materials/generic/wood/wood_beams_thin_a.mtl</Path>
+  <Path>materials/generic/wood/wood_dirt_b.mtl</Path>
+  <Path>materials/generic/wood/wood_fine_a_blend.mtl</Path>
+  <Path>materials/generic/wood/wood_fine_a_wet.mtl</Path>
   <Path>materials/particle/exposion_normal.mtl</Path>
   <Path>materials/particle/refraction.mtl</Path>
   <Path>materials/particle/spec_water.mtl</Path>
@@ -596,12 +614,24 @@
   <Path>objects/characters/human/sdk_player/head_a.mtl</Path>
   <Path>objects/characters/human/sdk_player/sdk_player.cdf</Path>
   <Path>objects/characters/human/sdk_player/sdk_player.mtl</Path>
-  <Path>objects/default/editorprimitive.mtl</Path>
   <Path>objects/default/explosion_shape/tree_broken_shape.cgf</Path>
   <Path>objects/default/explosion_shape/tree_broken_shape2.cgf</Path>
   <Path>objects/default/explosion_shape/tree_broken_shape3.cgf</Path>
   <Path>objects/default/explosion_shape/trunk_splinters_a.cgf</Path>
   <Path>objects/default/primitive_box.cgf</Path>
+  <Path>objects/default/primitive_box_noproxy.cgf</Path>
+  <Path>objects/default/primitive_cube.cgf</Path>
+  <Path>objects/default/primitive_cube_noproxy.cgf</Path>
+  <Path>objects/default/primitive_cube_small.cgf</Path>
+  <Path>objects/default/primitive_cylinder.cgf</Path>
+  <Path>objects/default/primitive_cylinder_noproxy.cgf</Path>
+  <Path>objects/default/primitive_plane_noproxy.cgf</Path>
+  <Path>objects/default/primitive_plane_small.cgf</Path>
+  <Path>objects/default/primitive_pyramid.cgf</Path>
+  <Path>objects/default/primitive_pyramid_noproxy.cgf</Path>
+  <Path>objects/default/primitive_sphere.cgf</Path>
+  <Path>objects/default/primitive_sphere_noproxy.cgf</Path>
+  <Path>objects/default/primitive_sphere_small.cgf</Path>
   <Path>objects/effects/muzzle_flash_standard.cgf</Path>
   <Path>objects/effects/natural/particle_green_leafs_a.cgf</Path>
   <Path>objects/effects/natural/particle_green_leafs_b.cgf</Path>
@@ -612,15 +642,6 @@
   <Path>objects/effects/natural/particle_rock.mtl</Path>
   <Path>objects/effects/natural/particle_rock_a.cgf</Path>
   <Path>objects/effects/tracer_standard_new.cgf</Path>
-  <Path>objects/hud/hud_plane_a.cgf</Path>
-  <Path>objects/hud/hud_plane_c.cgf</Path>
-  <Path>objects/hud/hud_plane_d.cgf</Path>
-  <Path>objects/hud/hud_plane_e.cgf</Path>
-  <Path>objects/hud/hud_plane_f.cgf</Path>
-  <Path>objects/hud/hud_plane_g.cgf</Path>
-  <Path>objects/hud/hud_plane_h.cgf</Path>
-  <Path>objects/hud/hud_plane_i.cgf</Path>
-  <Path>objects/hud/hud_plane_j.cgf</Path>
   <Path>objects/natural/rocks/erosion/landslide_rock_small_a.cgf</Path>
   <Path>objects/natural/rocks/river_rocks/dry_pattern_a.cgf</Path>
   <Path>objects/natural/rocks/river_rocks/dry_pattern_a_lod1.cgf</Path>
@@ -630,6 +651,33 @@
   <Path>objects/natural/trees/thin_leave_tree/branches.mtl</Path>
   <Path>objects/natural/trees/thin_leave_tree/forest_ground_branches_1_h.cgf</Path>
   <Path>objects/natural/trees/thin_leave_tree/forest_ground_branches_1_h_lod1.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_closed.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_closed_large.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_edgy.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_edgy_large.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_glass.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_glass_large.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_grid.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_grid_large.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_large.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_scifi.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_scifi_large.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_spikes.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_spikes_large.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_spiral.cgf</Path>
+  <Path>objects/props/flappy_boid/pipe_spiral_large.cgf</Path>
+  <Path>objects/props/flappy_boid/skyscraper_01.cgf</Path>
+  <Path>objects/props/flappy_boid/skyscraper_02.cgf</Path>
+  <Path>objects/props/flappy_boid/skyscraper_comp_01.cgf</Path>
+  <Path>objects/props/flappy_boid/skyscraper_comp_02.cgf</Path>
+  <Path>objects/props/flappy_boid/skyscraper_comp_03.cgf</Path>
+  <Path>objects/props/flappy_boid/skyscraper_comp_04.cgf</Path>
+  <Path>objects/props/flappy_boid/skyscraper_comp_05.cgf</Path>
+  <Path>objects/props/flappy_boid/skyscraper_comp_06.cgf</Path>
+  <Path>objects/props/flappy_boid/skyscraper_twisted_01.cgf</Path>
+  <Path>objects/props/flappy_boid/skyscraper_twisted_02.cgf</Path>
+  <Path>objects/props/flappy_boid/skyscrapper_ddn.dds</Path>
   <Path>objects/weapons/ammo/shells/shell_556/shell_556.cgf</Path>
   <Path>objects/weapons/attachments/pistol_magazine/pistol_magazine_fp.cgf</Path>
   <Path>objects/weapons/attachments/pistol_magazine/pistol_magazine_tp.cgf</Path>
@@ -660,12 +708,15 @@
   <Path>objects/weapons/shotgun/shotgun_tp.mtl</Path>
   <Path>objects/weapons/shotgun/shotgun_tp_lod1.cgf</Path>
   <Path>objects/weapons/shotgun/shotgun_tp_lod2.cgf</Path>
-  <Path>prefabs/hud.xml</Path>
   <Path>scripts/ai/factions.xml</Path>
   <Path>scripts/ai/tacticalpositionmanager.lua</Path>
   <Path>scripts/ai/tps/humangruntqueries.lua</Path>
   <Path>scripts/ai/tps/sdkgruntqueries.lua</Path>
   <Path>scripts/ai/tps/sharedqueries.lua</Path>
+  <Path>scripts/entities/ai/tagpoint.lua</Path>
+  <Path>scripts/entities/others/spawnpoint.lua</Path>
+  <Path>scripts/entities/physics/rigidbodyex.lua</Path>
+  <Path>scripts/entities/triggers/proximitytrigger.lua</Path>
   <Path>scripts/physics.lua</Path>
   <Path>textures/defaults/default_mat_warning.dds</Path>
   <Path>textures/sprites/blood/blood_anim_a.dds</Path>
