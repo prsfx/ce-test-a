@@ -1,0 +1,1344 @@
+{
+    "build-hash": "56401a00cabd096f3891f8872424bd4a51829160",
+    "build-num": 191,
+    "format": "release_manifest_v1",
+    "packages": {
+        "GameSDK/GameSDK.cryproject": {
+            "hash": "54cfaef0c5cc94200770f96945288f40e14943e8",
+            "installsize": 1662,
+            "manifest": [
+                "95f2c55dfa35cb2e97d8db3afe7c1b7285f8feff GameSDK/GameSDK.cryproject"
+            ],
+            "size": 791,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/_fastload/intromovies.pak": {
+            "hash": "34f018a9a954d3d8ed52c86be1d438ed29acc3fe",
+            "installsize": 10629275,
+            "manifest": [
+                "dafd21d44f9e16462c5d5a6864364cc314a748ec GameSDK/GameSDK/_fastload/intromovies.pak"
+            ],
+            "size": 10000193,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/animations.pak": {
+            "hash": "a0b0db2110f43084fe74b788e212519629be057b",
+            "installsize": 18806892,
+            "manifest": [
+                "00f1a0f7b694b53ab8d8264683f04604b1ded70b GameSDK/GameSDK/animations.pak"
+            ],
+            "size": 18474561,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/audio.pak": {
+            "hash": "4aaeab5fee890578735be293645ee81a66ebd377",
+            "installsize": 85596470,
+            "manifest": [
+                "4e5168c963ee8ea4fcb7b7a9c31a1fba45d467b0 GameSDK/GameSDK/audio.pak"
+            ],
+            "size": 81617721,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/cryasset.pak": {
+            "hash": "d649c8ae0b57c36f02db36805b27ed5155251342",
+            "installsize": 5903637,
+            "manifest": [
+                "bc57fec58ee81ecb603a7c2c44e77ca01fa50d23 GameSDK/GameSDK/cryasset.pak"
+            ],
+            "size": 707998,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/game.cfg": {
+            "hash": "0b531614c088e2ad21e089daa8c0e0ede6d5a711",
+            "installsize": 171,
+            "manifest": [
+                "40acc35e4e9167290d1002410ad684ad30bd446a GameSDK/GameSDK/game.cfg"
+            ],
+            "size": 469,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/gamedata.pak": {
+            "hash": "0893334169ec8e7febe0f78071ddf127e2641822",
+            "installsize": 86883701,
+            "manifest": [
+                "19a99557585fbee1660f528073711baf7fdd7969 GameSDK/GameSDK/gamedata.pak"
+            ],
+            "size": 31798932,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/geomcaches.pak": {
+            "hash": "52d56a7911733239972d769da8d2da56642104e4",
+            "installsize": 22524809,
+            "manifest": [
+                "460e4c281ad27d0e851acf68aa0280401d24632f GameSDK/GameSDK/geomcaches.pak"
+            ],
+            "size": 22466084,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levelrotation.xml": {
+            "hash": "fca6c4ee8ddc0a00e99b365b2649ebe7616c1285",
+            "installsize": 108,
+            "manifest": [
+                "c48a933f7c92f2249417315def800f3c2a7611ba GameSDK/GameSDK/levelrotation.xml"
+            ],
+            "size": 428,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase.level.cryasset": {
+            "hash": "2aa16ff6cc991574570cbe5f6663c1f4a3e7a967",
+            "installsize": 7256,
+            "manifest": [
+                "f0af4fc528f563fea38740e405bbcc934fdf1f9a GameSDK/GameSDK/levels/_testmaps/particle_showcase.level.cryasset"
+            ],
+            "size": 1737,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/filelist.xml": {
+            "hash": "855c0e86f6daf931f2940e86e7b4be1382ff9316",
+            "installsize": 229,
+            "manifest": [
+                "946de273fd6f8941229363587c3e22df5c917a72 GameSDK/GameSDK/levels/_testmaps/particle_showcase/filelist.xml"
+            ],
+            "size": 526,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/filelist.xml.cryasset": {
+            "hash": "ddcde7c0ece857c6ffa127d93ac78c513f022104",
+            "installsize": 223,
+            "manifest": [
+                "4ca1d0208ad4d9f75c872889a6bdf088116986f3 GameSDK/GameSDK/levels/_testmaps/particle_showcase/filelist.xml.cryasset"
+            ],
+            "size": 537,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/layers/_particles.lyr": {
+            "hash": "fbdb5f003b8ace985d4c671203844fe661e9f732",
+            "installsize": 5090,
+            "manifest": [
+                "40c9d3ca972eb1b33991d84c93c756f77cf9b3f3 GameSDK/GameSDK/levels/_testmaps/particle_showcase/layers/_particles.lyr"
+            ],
+            "size": 1425,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/layers/terrain.lyr": {
+            "hash": "3a92f82113d21dbf615d4c7a90f7df186b37ef42",
+            "installsize": 452,
+            "manifest": [
+                "ec5408799dc6646266d3b68fd69e87c95b228bed GameSDK/GameSDK/levels/_testmaps/particle_showcase/layers/terrain.lyr"
+            ],
+            "size": 636,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/layers/walls.lyr": {
+            "hash": "06531871fed69d0a0dd21c8d64b099e431dc10c1",
+            "installsize": 355902,
+            "manifest": [
+                "c5ed6c0f6ea5003a300666c402ffd695bcee076a GameSDK/GameSDK/levels/_testmaps/particle_showcase/layers/walls.lyr"
+            ],
+            "size": 30031,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/level.pak": {
+            "hash": "d7128d3836a7842cbc7a80477a781af851964dca",
+            "installsize": 112180,
+            "manifest": [
+                "6670e1f2abebc006fe74430ede1c4928042a1a6b GameSDK/GameSDK/levels/_testmaps/particle_showcase/level.pak"
+            ],
+            "size": 44950,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/leveldata/environment.xml": {
+            "hash": "ce6a6dbc1841ace8a7252de56190ed06019671d2",
+            "installsize": 1474,
+            "manifest": [
+                "6faeacd8823d7edb6213609786f1441ea3729eb6 GameSDK/GameSDK/levels/_testmaps/particle_showcase/leveldata/environment.xml"
+            ],
+            "size": 1066,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/leveldata/gametokens.xml": {
+            "hash": "5483ffbbf0848742df19eef42cd9004d4967d503",
+            "installAffinityBit": 1,
+            "installsize": 106,
+            "manifest": [
+                "2753a86cf5e50450b8142ed2f1d777f4be819adc GameSDK/GameSDK/levels/_testmaps/particle_showcase/leveldata/gametokens.xml"
+            ],
+            "size": 435,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/leveldata/heightmap.dat": {
+            "hash": "d4fa662ec2d7d3a140d571ebd229a6a6cbcefe10",
+            "installsize": 60170292,
+            "manifest": [
+                "935181e73cd2d2144f0da138baf034266c34174a GameSDK/GameSDK/levels/_testmaps/particle_showcase/leveldata/heightmap.dat"
+            ],
+            "size": 541083,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/leveldata/terraintexture.xml": {
+            "hash": "af62770f504f0f3d982a1e1a81c6020851f26dec",
+            "installsize": 173,
+            "manifest": [
+                "20f5bc929d574d0d8b3c8d278c73f75a851433d7 GameSDK/GameSDK/levels/_testmaps/particle_showcase/leveldata/terraintexture.xml"
+            ],
+            "size": 490,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/leveldata/timeofday.xml": {
+            "hash": "ad1aabc1ab187fd9c8012d1cac502458d0f30f68",
+            "installsize": 234,
+            "manifest": [
+                "553a137f7a9b22c8797770c19cb25e3259ef2271 GameSDK/GameSDK/levels/_testmaps/particle_showcase/leveldata/timeofday.xml"
+            ],
+            "size": 512,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/leveldata/vegetationmap.dat": {
+            "hash": "8ada64371dcc4e68e18cd642c78ed675feff555b",
+            "installsize": 63,
+            "manifest": [
+                "db40c4c609bcda8a2d5f962db68447fbbe9a5f6e GameSDK/GameSDK/levels/_testmaps/particle_showcase/leveldata/vegetationmap.dat"
+            ],
+            "size": 429,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/particle_showcase.cry": {
+            "hash": "c3292ab754905ee6fcc078c61687e0e0357c32da",
+            "installsize": 3169,
+            "manifest": [
+                "388e018a2e81d2b85b4359fb1964dfa667ce551b GameSDK/GameSDK/levels/_testmaps/particle_showcase/particle_showcase.cry"
+            ],
+            "size": 3537,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/particle_showcase.level": {
+            "hash": "d1e372dfb28477133db2872d4d6b0935d130212a",
+            "installsize": 1232,
+            "manifest": [
+                "cd6c42677baf5a9f17bb60a0869d5f0ba8498cd5 GameSDK/GameSDK/levels/_testmaps/particle_showcase/particle_showcase.level"
+            ],
+            "size": 985,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/_testmaps/particle_showcase/terraintexture.pak": {
+            "hash": "77545cf92a3a4b08ceb4bbf7f10a49609b751590",
+            "installAffinityBit": 2,
+            "installsize": 162,
+            "manifest": [
+                "1af440743487c4985db24e6c093eabf928ef1f10 GameSDK/GameSDK/levels/_testmaps/particle_showcase/terraintexture.pak"
+            ],
+            "size": 394,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield.level.cryasset": {
+            "hash": "fbb65b08d65293e603f707835402b454fcd25a57",
+            "installsize": 105839,
+            "manifest": [
+                "11d2e021285cedfeef4089d544357b7df41e2439 GameSDK/GameSDK/levels/multiplayer/airfield.level.cryasset"
+            ],
+            "size": 10407,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/airfield.dds": {
+            "hash": "1cd2fd6f40156d73ab0decd0dc9990626c2820f1",
+            "installsize": 524416,
+            "manifest": [
+                "45e90886edffb2f5ab02a955f557df7db2e92930 GameSDK/GameSDK/levels/multiplayer/airfield/airfield.dds"
+            ],
+            "size": 318276,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/airfield.dds.cryasset": {
+            "hash": "6b7b1072c237a6d0f5f2fb9f00380a45479f292e",
+            "installsize": 435,
+            "manifest": [
+                "6c24c4e2fbf3e2171e1eeae14450712f1f700a17 GameSDK/GameSDK/levels/multiplayer/airfield/airfield.dds.cryasset"
+            ],
+            "size": 552,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/airfield.level": {
+            "hash": "790e46ad07daac294675a8640a78cf052c7b971c",
+            "installsize": 1468,
+            "manifest": [
+                "cd8d3941c4c2c5d041938410563261be4ddc5953 GameSDK/GameSDK/levels/multiplayer/airfield/airfield.level"
+            ],
+            "size": 1048,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/airfield.xml": {
+            "hash": "df1e10226592fc9619f515f9b26b4f8c05bfc6ba",
+            "installsize": 412,
+            "manifest": [
+                "5b382e9421e40a6124c6b4f3244194a89a4c1ca9 GameSDK/GameSDK/levels/multiplayer/airfield/airfield.xml"
+            ],
+            "size": 612,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/filelist.xml": {
+            "hash": "576d6b7c7997d785c926b86c044ab1a4807dbb53",
+            "installsize": 425,
+            "manifest": [
+                "7735bbe668fd1061144460d096176a01f9d6508d GameSDK/GameSDK/levels/multiplayer/airfield/filelist.xml"
+            ],
+            "size": 591,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/layers/airfield.lyr": {
+            "hash": "9f72a5a76fd1fe49b901f9d10af7c02dd10d2c71",
+            "installsize": 2298438,
+            "manifest": [
+                "cd841ef751b79cb6464c49b75de3398cb67f2984 GameSDK/GameSDK/levels/multiplayer/airfield/layers/airfield.lyr"
+            ],
+            "size": 143916,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/layers/audio.lyr": {
+            "hash": "2fe725813e9709180d7c2133b64e01a4a77ad9ca",
+            "installsize": 48122,
+            "manifest": [
+                "933386a14fa0490dafbfd07874e9d7e5b11e24f0 GameSDK/GameSDK/levels/multiplayer/airfield/layers/audio.lyr"
+            ],
+            "size": 5429,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/layers/designer.lyr": {
+            "hash": "6f9942b9c8c5de781b34868bcba8269ad1c0f1c7",
+            "installsize": 56709,
+            "manifest": [
+                "15aaffa875bceb18ca840c75e51a3a475ffc6341 GameSDK/GameSDK/levels/multiplayer/airfield/layers/designer.lyr"
+            ],
+            "size": 9444,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/layers/gameplay/gameplay_assets.lyr": {
+            "hash": "98616a276ca8d62659ffe4b01b9421f66c940233",
+            "installsize": 53828,
+            "manifest": [
+                "d5e17ea37376460baf1f06ab69043f8dc3ad2f21 GameSDK/GameSDK/levels/multiplayer/airfield/layers/gameplay/gameplay_assets.lyr"
+            ],
+            "size": 6484,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/layers/gameplay/gametype_instantaction.lyr": {
+            "hash": "032d648397aa524800a2bf87e4c03b04ddf88d01",
+            "installsize": 4657,
+            "manifest": [
+                "d8a5aad617c3cded202a0f7eb1e89dd0bc906346 GameSDK/GameSDK/levels/multiplayer/airfield/layers/gameplay/gametype_instantaction.lyr"
+            ],
+            "size": 1308,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/layers/gameplay/gametype_teaminstantaction.lyr": {
+            "hash": "b2f8b111809347cdf1265761642a4f4dc308de71",
+            "installsize": 22157,
+            "manifest": [
+                "8de56a93c66e344fb39f12e7e240ac7e3698701a GameSDK/GameSDK/levels/multiplayer/airfield/layers/gameplay/gametype_teaminstantaction.lyr"
+            ],
+            "size": 2493,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/layers/lighting.lyr": {
+            "hash": "c419b175dd34c2d7f31546bbc8e8d3a20bda7d97",
+            "installsize": 56285,
+            "manifest": [
+                "f0ca9de5e5277875c2b1fdffd0527eef90facca6 GameSDK/GameSDK/levels/multiplayer/airfield/layers/lighting.lyr"
+            ],
+            "size": 6012,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/layers/main.lyr": {
+            "hash": "379a9a4151b90d582d76414b4805fbb3c18ab1a9",
+            "installsize": 245,
+            "manifest": [
+                "86083cd8aa452228398aaedec507f65343b7d342 GameSDK/GameSDK/levels/multiplayer/airfield/layers/main.lyr"
+            ],
+            "size": 535,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/layers/multiplayer_ai.lyr": {
+            "hash": "1d5b74d1e95be320e4d4be096655553d8ea4b6f6",
+            "installsize": 14151,
+            "manifest": [
+                "83358c3e1182dfce0ee70f33c5993fc897d36806 GameSDK/GameSDK/levels/multiplayer/airfield/layers/multiplayer_ai.lyr"
+            ],
+            "size": 1919,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/layers/rocks.lyr": {
+            "hash": "8aa22d42c14622801d5ac4ad692cf73c25fc2cf2",
+            "installsize": 524611,
+            "manifest": [
+                "a9100615f9bf940c16d11b52e3f2fbe3f9838d5b GameSDK/GameSDK/levels/multiplayer/airfield/layers/rocks.lyr"
+            ],
+            "size": 30108,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/level.cfg": {
+            "hash": "04ba29ff4d6ec3b60aeeb2dcf43ca59fe64f64ce",
+            "installsize": 86,
+            "manifest": [
+                "b5a4038b2d5e8ecf0f49394f21283f5d89a73d96 GameSDK/GameSDK/levels/multiplayer/airfield/level.cfg"
+            ],
+            "size": 427,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/level.pak": {
+            "hash": "8c3a352672cd1e90d5664efe0669e723b57f92dd",
+            "installsize": 11907879,
+            "manifest": [
+                "cfcf056f30fd7f79189cd86770e5b1ceebbb64e3 GameSDK/GameSDK/levels/multiplayer/airfield/level.pak"
+            ],
+            "size": 5012821,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/designermeshes.dat": {
+            "hash": "1833d90eab21a370578df2fca6ff93c5078fbcd3",
+            "installsize": 13576,
+            "manifest": [
+                "94c9c0799d63afcbb4eaf869375c61a3c66ce555 GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/designermeshes.dat"
+            ],
+            "size": 2662,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/designerobjects.dat": {
+            "hash": "4346334534c38b1bc1204366353daca4c774d5b4",
+            "installsize": 16020,
+            "manifest": [
+                "102ed423cb3750b86c20b8fee265243c857c9606 GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/designerobjects.dat"
+            ],
+            "size": 2403,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/environment.xml": {
+            "hash": "9c417fe3ca5d4d19a74f957303a807381ec32222",
+            "installsize": 1446,
+            "manifest": [
+                "8ce363d8222b657acccd79197281c7e3135f711a GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/environment.xml"
+            ],
+            "size": 1057,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/environment.xml.cryasset": {
+            "hash": "01eb97431c11859ddf1ed79ff75034e3f959d052",
+            "installsize": 229,
+            "manifest": [
+                "b462fe37518870d63bf19e9618968281d2445f5e GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/environment.xml.cryasset"
+            ],
+            "size": 540,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/gametokens.xml": {
+            "hash": "6354dfdae831989dfe0c8c60c1c93c636e702b34",
+            "installsize": 214,
+            "manifest": [
+                "b7c1c231d6ca1629f2e07343e44f019639e3acc5 GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/gametokens.xml"
+            ],
+            "size": 501,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/gametokens.xml.cryasset": {
+            "hash": "3d3f4c9723edbb2bc61e1e28fff49f2feffbef50",
+            "installsize": 227,
+            "manifest": [
+                "864efb75a897b5dbd4f4b31e141434f1ba0d212e GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/gametokens.xml.cryasset"
+            ],
+            "size": 539,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/heightmap.dat": {
+            "hash": "31bb97d103c04e7d6858ee3fb1464c633245122b",
+            "installsize": 63305407,
+            "manifest": [
+                "cbec01e84417ee500c7643fc7b3a5cb52d5be8c4 GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/heightmap.dat"
+            ],
+            "size": 2383930,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/terraintexture.xml": {
+            "hash": "b358633faf44455ee6e1f6eb3e9f247982271076",
+            "installsize": 688,
+            "manifest": [
+                "6df232d51c23ba2703559c414943f57ee980dbe2 GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/terraintexture.xml"
+            ],
+            "size": 551,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/terraintexture.xml.cryasset": {
+            "hash": "50e44a3c2fc12d32ed93611222377c132cf635d7",
+            "installsize": 235,
+            "manifest": [
+                "8c70d50b0c3c0b527d964d96d5ceca3ef8d40493 GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/terraintexture.xml.cryasset"
+            ],
+            "size": 542,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/timeofday.xml": {
+            "hash": "807974c31aeeb0491a31e96b13f0e4f9cacafedb",
+            "installsize": 177,
+            "manifest": [
+                "fd9097e54e4b63fc7ff56ef336ab63f75bb9d656 GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/timeofday.xml"
+            ],
+            "size": 488,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/timeofday.xml.cryasset": {
+            "hash": "01817db8597f5b74d26352c967fde986037f551f",
+            "installsize": 225,
+            "manifest": [
+                "cab1f23e0cb2f504195f794c9c6c035074f1abb3 GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/timeofday.xml.cryasset"
+            ],
+            "size": 536,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/vegetationmap.dat": {
+            "hash": "68613427fde146a4e177045fe67e07311c444a74",
+            "installsize": 5158935,
+            "manifest": [
+                "a491fa26b0d1cc293e5c16b4a452cdd1f5dbcab8 GameSDK/GameSDK/levels/multiplayer/airfield/leveldata/vegetationmap.dat"
+            ],
+            "size": 1834673,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/loadingairfield.dds": {
+            "hash": "c93b77ff1edef4821c288b3f762d356bb3d3c355",
+            "installsize": 262272,
+            "manifest": [
+                "d779572912688e8f7a0fc3b2e02f27d2ff1609a1 GameSDK/GameSDK/levels/multiplayer/airfield/loadingairfield.dds"
+            ],
+            "size": 129984,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/loadingairfield.dds.cryasset": {
+            "hash": "cc4377ea51cf9fb3854bbbf0cde21e6e37c61c62",
+            "installsize": 447,
+            "manifest": [
+                "acba4357758264991c11b142822d9e796e9f80fe GameSDK/GameSDK/levels/multiplayer/airfield/loadingairfield.dds.cryasset"
+            ],
+            "size": 573,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/tags.txt": {
+            "hash": "6b27e9c7ded4bb75e43d757c1f057e695bbf45e7",
+            "installsize": 763,
+            "manifest": [
+                "e640acf7ecb6aafb603e10b329679ef38aab9758 GameSDK/GameSDK/levels/multiplayer/airfield/tags.txt"
+            ],
+            "size": 713,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/terraintexture.pak": {
+            "hash": "d05b65b8118599fd20ada782de15e912e7aeeb38",
+            "installsize": 59081,
+            "manifest": [
+                "52f603dbb9913584f480894974deac29e5368d49 GameSDK/GameSDK/levels/multiplayer/airfield/terraintexture.pak"
+            ],
+            "size": 51512,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/multiplayer/airfield/timedemo.tmd": {
+            "hash": "92c0a81ef238a76dd5a4cf50335111a944c5fa76",
+            "installsize": 661057,
+            "manifest": [
+                "902dc96cfb10b26642a3b3362c6acb7b272d5f55 GameSDK/GameSDK/levels/multiplayer/airfield/timedemo.tmd"
+            ],
+            "size": 648118,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo.level.cryasset": {
+            "hash": "1a9dba10d1a8bfe74f95e6cde3811b9ecb8ab682",
+            "installsize": 68766,
+            "manifest": [
+                "5c5ac1f022f613f5dc6d5312f58dde058014e86d GameSDK/GameSDK/levels/singleplayer/vr_demo.level.cryasset"
+            ],
+            "size": 7069,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/filelist.xml": {
+            "hash": "abddd68d904562b1f72075dc269a5961e570146f",
+            "installsize": 219,
+            "manifest": [
+                "d9bb144aa946c68b5222c3ad874b3b936f46405e GameSDK/GameSDK/levels/singleplayer/vr_demo/filelist.xml"
+            ],
+            "size": 512,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/audio.lyr": {
+            "hash": "0b3d49f97d3fe41ef4cd6f163d9295b8c0074e85",
+            "installsize": 18921,
+            "manifest": [
+                "fe0141f15b2474d5ac7a1d4c30ebda08aad32483 GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/audio.lyr"
+            ],
+            "size": 2674,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/decals.lyr": {
+            "hash": "e1710a7f62d26c5ea0db7d138a238da8210e09a1",
+            "installsize": 15701,
+            "manifest": [
+                "3ab591103bd06570606ec4e50ade8aee91c709ad GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/decals.lyr"
+            ],
+            "size": 2542,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/fence.lyr": {
+            "hash": "abd175a7bb302f3b0a0ff596d394f2fc39810f94",
+            "installsize": 2980,
+            "manifest": [
+                "5097c5d2f088e3ddb30dacb6b3934444cefa01d6 GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/fence.lyr"
+            ],
+            "size": 1107,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/flares.lyr": {
+            "hash": "679e79f0bb90e69b4f7622eec12d128d4f4ef255",
+            "installsize": 17734,
+            "manifest": [
+                "ced96111c72f6af18b378e6c424aba4b74b2bc30 GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/flares.lyr"
+            ],
+            "size": 1885,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/lights.lyr": {
+            "hash": "7186c70cabdc6b19a6655692b0a8b1077819eaa5",
+            "installsize": 37161,
+            "manifest": [
+                "28c96597f654e2338d4a08a21acb66f9def45eec GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/lights.lyr"
+            ],
+            "size": 2794,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/no_stream.lyr": {
+            "hash": "9a57ae979b01b4a9c1ca27eb414e7e8b463917cb",
+            "installsize": 84149,
+            "manifest": [
+                "c6abae3a9564693027e3c1fbc3a5e8b577bd05d2 GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/no_stream.lyr"
+            ],
+            "size": 20530,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/particles.lyr": {
+            "hash": "874db8a578eaec5a463c8eed160ea5da0dbef0fd",
+            "installsize": 22794,
+            "manifest": [
+                "07e66f777e38c34c2d5a3fdc3d86dd221d5b1f0d GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/particles.lyr"
+            ],
+            "size": 2026,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/physics.lyr": {
+            "hash": "8ae2ac6372092f4b73070bc79f4c9a2c3581c914",
+            "installsize": 12552,
+            "manifest": [
+                "a9f8a5c0e377e248deb24e7c3957f8f2adbefda8 GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/physics.lyr"
+            ],
+            "size": 2215,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/player_collisions_vr.lyr": {
+            "hash": "71d757b41ad20ccb5d837e5c87a4c5a02e7f1b6e",
+            "installsize": 120179,
+            "manifest": [
+                "d2a22d80f63a6c70052e62efe32c659b02110e35 GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/player_collisions_vr.lyr"
+            ],
+            "size": 15062,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/probes.lyr": {
+            "hash": "3b544d17a7660e6841b7ebebde4b42da839afe31",
+            "installsize": 7249,
+            "manifest": [
+                "b80c68e91cbd0b46750ec54059f10a5d12c8738f GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/probes.lyr"
+            ],
+            "size": 1487,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/room_01_assets.lyr": {
+            "hash": "88366bce9f95c4ff0b623d80cbc074b4a7426847",
+            "installsize": 69108,
+            "manifest": [
+                "9b2a01083455beb0536b78f3f5c927f56ccad23a GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/room_01_assets.lyr"
+            ],
+            "size": 9197,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/vegetation.lyr": {
+            "hash": "3e64979b886540189c0b9bf92e5d048251d20319",
+            "installsize": 34624,
+            "manifest": [
+                "15f887f07af4923e237a84378d51dd4523975df4 GameSDK/GameSDK/levels/singleplayer/vr_demo/layers/room_01/vegetation.lyr"
+            ],
+            "size": 3018,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/level.pak": {
+            "hash": "1bf907075e3c5244093d33f09dd6bd9cef1608d7",
+            "installsize": 203991,
+            "manifest": [
+                "a74c9f7d7afa6f537fbcc50ede029199d118a352 GameSDK/GameSDK/levels/singleplayer/vr_demo/level.pak"
+            ],
+            "size": 56293,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/leveldata/environment.xml": {
+            "hash": "085fa635287b32db646a03480b32255e433b1c67",
+            "installsize": 1476,
+            "manifest": [
+                "49544823ea1c9668183ada03cb5efb7c9e4d2e35 GameSDK/GameSDK/levels/singleplayer/vr_demo/leveldata/environment.xml"
+            ],
+            "size": 1056,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/leveldata/gametokens.xml": {
+            "hash": "e0982787bce293cc33fd6b0332c033daba1e5b95",
+            "installAffinityBit": 1,
+            "installsize": 106,
+            "manifest": [
+                "2753a86cf5e50450b8142ed2f1d777f4be819adc GameSDK/GameSDK/levels/singleplayer/vr_demo/leveldata/gametokens.xml"
+            ],
+            "size": 428,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/leveldata/heightmap.dat": {
+            "hash": "2d9ef0e33f00f1ab09593ce42f48cb6670ced36b",
+            "installsize": 268223,
+            "manifest": [
+                "095a46ef33308241b64bab784a1eeacaf14fd585 GameSDK/GameSDK/levels/singleplayer/vr_demo/leveldata/heightmap.dat"
+            ],
+            "size": 2856,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/leveldata/terraintexture.xml": {
+            "hash": "454b09f1edc2338a822750cdfc158f5599dce92f",
+            "installsize": 171,
+            "manifest": [
+                "31121d1506eb5077242f881ba89ecaaf10698cdc GameSDK/GameSDK/levels/singleplayer/vr_demo/leveldata/terraintexture.xml"
+            ],
+            "size": 485,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/leveldata/timeofday.xml": {
+            "hash": "2478c362ece3f4fb2500575e8f6049fc6930bfc6",
+            "installsize": 173,
+            "manifest": [
+                "38599d7d8f7c645f01ae2762c3e6c4c2292f1388 GameSDK/GameSDK/levels/singleplayer/vr_demo/leveldata/timeofday.xml"
+            ],
+            "size": 490,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/leveldata/vegetationmap.dat": {
+            "hash": "af3284958d5fec317e5a6b4af5806cf4ce202733",
+            "installsize": 1222,
+            "manifest": [
+                "65e5befb8a9c81788f2191ec7819d9b9c15a63c3 GameSDK/GameSDK/levels/singleplayer/vr_demo/leveldata/vegetationmap.dat"
+            ],
+            "size": 1042,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/tags.txt": {
+            "hash": "904ba324fffb802315fe68bb6a004a7e8c9ea48f",
+            "installsize": 664,
+            "manifest": [
+                "e80ac2566adf29c5a79604ca5e304947866ec3e5 GameSDK/GameSDK/levels/singleplayer/vr_demo/tags.txt"
+            ],
+            "size": 425,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/terraintexture.pak": {
+            "hash": "f72e7ea2c31adf426d5ebe1dfc9afb894f2b19b8",
+            "installAffinityBit": 2,
+            "installsize": 162,
+            "manifest": [
+                "1af440743487c4985db24e6c093eabf928ef1f10 GameSDK/GameSDK/levels/singleplayer/vr_demo/terraintexture.pak"
+            ],
+            "size": 390,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/vr_demo/vr_demo.level": {
+            "hash": "991589847f68449a9d08eda490de056c9dfccce2",
+            "installsize": 2665,
+            "manifest": [
+                "c19a56362cfae5b3751b363826340d9e863ab7eb GameSDK/GameSDK/levels/singleplayer/vr_demo/vr_demo.level"
+            ],
+            "size": 1518,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland.level.cryasset": {
+            "hash": "d405083b347e2c53339118fc4814327bc8e5d5cc",
+            "installsize": 56859,
+            "manifest": [
+                "66c8ef1b87a2888534e1e3066409d904bfc3dbf1 GameSDK/GameSDK/levels/singleplayer/woodland.level.cryasset"
+            ],
+            "size": 6017,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/filelist.xml": {
+            "hash": "8e20108843f83f3ec34fae5e79f881b7a2716fac",
+            "installsize": 426,
+            "manifest": [
+                "7cdaada31403fe70cec99dd30eedd964303d17a6 GameSDK/GameSDK/levels/singleplayer/woodland/filelist.xml"
+            ],
+            "size": 591,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/filelist.xml.cryasset": {
+            "hash": "df25f7dd09dffd5db11dd3c5e23e40b237ae3901",
+            "installsize": 223,
+            "manifest": [
+                "74f31a1688c92ab65615921af89d65c6b8cd359c GameSDK/GameSDK/levels/singleplayer/woodland/filelist.xml.cryasset"
+            ],
+            "size": 532,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab01/ab01_gameplay.lyr": {
+            "hash": "dae24894194fa11d9cb2a00063be8c4ca9a2581b",
+            "installsize": 56059,
+            "manifest": [
+                "91f874db71d869b8996053ba8050054035c502ce GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab01/ab01_gameplay.lyr"
+            ],
+            "size": 9238,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab01/ab01_objects.lyr": {
+            "hash": "34b62ee767731505bb33c57726e15a89118cfd07",
+            "installsize": 384309,
+            "manifest": [
+                "269339bb64a85eea36f222fb92a40f29a1209694 GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab01/ab01_objects.lyr"
+            ],
+            "size": 33901,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab01/ab01_pfx.lyr": {
+            "hash": "ac58480019a326c9c4b0681993bbdd547492d31d",
+            "installsize": 44490,
+            "manifest": [
+                "0e53ea3c00af48d6ca637223eb0cb6646b0dd073 GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab01/ab01_pfx.lyr"
+            ],
+            "size": 4131,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab02/ab02_gameplay.lyr": {
+            "hash": "530a77eef55d32429c1f53bd2db634d78c3fadeb",
+            "installsize": 8512,
+            "manifest": [
+                "1343fe7a33b56a4332a2f3135714a87293477380 GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab02/ab02_gameplay.lyr"
+            ],
+            "size": 2085,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab02/ab02_objects.lyr": {
+            "hash": "d720f48a8c6bfaa19a8ef74f3555167ee5e50e1a",
+            "installsize": 69269,
+            "manifest": [
+                "f6feafe804d72f68aefcd3a086d9f820e9830b91 GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab02/ab02_objects.lyr"
+            ],
+            "size": 6640,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab02/ab02_pfx.lyr": {
+            "hash": "daa476e055a2a019172aaf7545b0ffdc89ef54b6",
+            "installsize": 6121,
+            "manifest": [
+                "41eb421b032f6faf7443e4b2e68dff86706aac45 GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab02/ab02_pfx.lyr"
+            ],
+            "size": 1395,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab03/ab03_gameplay.lyr": {
+            "hash": "d10c128e292db19160dd4bd2546276514256d58e",
+            "installsize": 15732,
+            "manifest": [
+                "e056abc2e8d0c9babc832d2a7adfe96cc5efd911 GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab03/ab03_gameplay.lyr"
+            ],
+            "size": 3081,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab03/ab03_objects.lyr": {
+            "hash": "30fbbb6f8156d3d93b9181b6d56b9ad6bde9e237",
+            "installsize": 128006,
+            "manifest": [
+                "f525658342e32698e54ed1b57d0cb66910d97f1d GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab03/ab03_objects.lyr"
+            ],
+            "size": 11833,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab03/ab03_pfx.lyr": {
+            "hash": "1cb54935ad2adfd306ee7cd36b246500ea3a7c60",
+            "installsize": 12832,
+            "manifest": [
+                "0cb96737d39cbc6f8045597776b84ac3feb7a531 GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab03/ab03_pfx.lyr"
+            ],
+            "size": 1801,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab04/ab04_gameplay.lyr": {
+            "hash": "1b56ac4eb6a8c037e0bcce8685491493486bc91f",
+            "installsize": 17822,
+            "manifest": [
+                "fa89a8ec1d5569c92105a54c873ac49e723aaca0 GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab04/ab04_gameplay.lyr"
+            ],
+            "size": 3776,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab04/ab04_objects.lyr": {
+            "hash": "3517882dc4349c68fa4dbf3f90b037142bcd15cc",
+            "installsize": 99119,
+            "manifest": [
+                "8018d2825cd08a8a02834b49a4c2e62e936a11ba GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab04/ab04_objects.lyr"
+            ],
+            "size": 9791,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab04/ab04_pfx.lyr": {
+            "hash": "4476b1d16b2e94406f18ded0631abedd16e07e5f",
+            "installsize": 9907,
+            "manifest": [
+                "1ab218b0dc366fcaf6237d4c569de18d92d4ae27 GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab04/ab04_pfx.lyr"
+            ],
+            "size": 1852,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab05/ab05_gameplay.lyr": {
+            "hash": "dbd75858edea3559b7cca3c4089d5ade4e26d671",
+            "installsize": 87678,
+            "manifest": [
+                "83ac71e70a17a7623402a5160b9e67c9ec0972ac GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab05/ab05_gameplay.lyr"
+            ],
+            "size": 12410,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab05/ab05_objects.lyr": {
+            "hash": "85bce9ecb321715adb45b26a82e515d4e718e453",
+            "installsize": 210841,
+            "manifest": [
+                "0326142b9c215ce20366d107463e8acad3d6e287 GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab05/ab05_objects.lyr"
+            ],
+            "size": 20179,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab05/ab05_pfx.lyr": {
+            "hash": "4ca388e26e5b50ea35c13eb2afe47007c762cd5c",
+            "installsize": 42776,
+            "manifest": [
+                "9c6d87c11043dd7ff651a36a4f1eedde7d5488f6 GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab05/ab05_pfx.lyr"
+            ],
+            "size": 3643,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab06/ab06_gameplay.lyr": {
+            "hash": "69fb8a7ab284e3ddd8a8c956b5f8ed0bbba02f6d",
+            "installsize": 30278,
+            "manifest": [
+                "1139e88897416ccbfed11175d807fd60ec093069 GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab06/ab06_gameplay.lyr"
+            ],
+            "size": 5789,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab06/ab06_objects.lyr": {
+            "hash": "bae61ad037d7b3216b19e86aa82f3bc755cd416c",
+            "installsize": 425415,
+            "manifest": [
+                "051989e1a58a9e07a6358ad51603be2f6459086e GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab06/ab06_objects.lyr"
+            ],
+            "size": 37425,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab06/ab06_pfx.lyr": {
+            "hash": "43ae0d2fa08848607ce295c31a38a1171b17bef9",
+            "installsize": 30069,
+            "manifest": [
+                "548608cb1d2c3f4e14692e886547fc99d47f3061 GameSDK/GameSDK/levels/singleplayer/woodland/layers/ab06/ab06_pfx.lyr"
+            ],
+            "size": 3047,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/audio.lyr": {
+            "hash": "f7bc473ab33f62ebb4f417fdd2c3c51174dc35e7",
+            "installsize": 92845,
+            "manifest": [
+                "1bc92f0b25740f94a382f0233b3004819ec4b208 GameSDK/GameSDK/levels/singleplayer/woodland/layers/audio.lyr"
+            ],
+            "size": 12586,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/background.lyr": {
+            "hash": "025ea60d3f4b190d41c97e5507c1955fa23195ca",
+            "installsize": 189171,
+            "manifest": [
+                "95de11ae4936ddf6177af4446f8a22a4d4e182d3 GameSDK/GameSDK/levels/singleplayer/woodland/layers/background.lyr"
+            ],
+            "size": 11246,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/cinematics.lyr": {
+            "hash": "36b1310e7bad92d801d82de96e47d3e94307d856",
+            "installsize": 116833,
+            "manifest": [
+                "542249c1d70dcdba34a1ee46b8a040e1d423175d GameSDK/GameSDK/levels/singleplayer/woodland/layers/cinematics.lyr"
+            ],
+            "size": 25830,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/gdc_demo_materials.lyr": {
+            "hash": "e8364b4721df0d3d8027d09b27776975ef529eee",
+            "installsize": 45211,
+            "manifest": [
+                "f0cb6e1f51ef37ccd6d0a4df9075863d6ba9c968 GameSDK/GameSDK/levels/singleplayer/woodland/layers/gdc_demo_materials.lyr"
+            ],
+            "size": 3565,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/level_occ_mesh.lyr": {
+            "hash": "93eaed98dea2e8f867e9ead36dadf6b4ca857d8f",
+            "installsize": 682040,
+            "manifest": [
+                "e1518266490ed5e72ec15147e454f6479a4165c8 GameSDK/GameSDK/levels/singleplayer/woodland/layers/level_occ_mesh.lyr"
+            ],
+            "size": 116424,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/ab01_lighting.lyr": {
+            "hash": "5268697c69dad0b25b7b4e02db6e8689f4d27339",
+            "installsize": 17179,
+            "manifest": [
+                "15daad1ae0ee87e19da3ba7deae764d6ac61d274 GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/ab01_lighting.lyr"
+            ],
+            "size": 2346,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/ab02_lighting.lyr": {
+            "hash": "cfd80389f02eceeb6cef3ec32093cf49c8bdc0b3",
+            "installsize": 2468,
+            "manifest": [
+                "b12e2a18fd9881ac61eed0641e8234ea4fda86c0 GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/ab02_lighting.lyr"
+            ],
+            "size": 1206,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/ab03_lighting.lyr": {
+            "hash": "6ef7a53309b6c67ac961d00522cb1b2ce2d88d09",
+            "installsize": 3503,
+            "manifest": [
+                "5d4d75bd15b970f2e44e6c1cbd78ce7503ffd1c9 GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/ab03_lighting.lyr"
+            ],
+            "size": 1354,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/ab04_lighting.lyr": {
+            "hash": "560b585f53db58fdf1acadec2eb09f1d045f87a5",
+            "installsize": 1426,
+            "manifest": [
+                "52ae217e6ce482b464d1e3111afe106829fbedf6 GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/ab04_lighting.lyr"
+            ],
+            "size": 1135,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/ab05_lighting.lyr": {
+            "hash": "2619d3b48077266246f7c1d030179169f843f075",
+            "installsize": 9854,
+            "manifest": [
+                "1c27446861a4cb60a0611ec16697867c8e0b9754 GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/ab05_lighting.lyr"
+            ],
+            "size": 1798,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/ab06_lighting.lyr": {
+            "hash": "b7610464e416fa511b2bc446da36a4ab2da1b5a7",
+            "installsize": 15074,
+            "manifest": [
+                "cb2ecd02badc2bac8bb4ea5dee7c9117f87ff1b1 GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/ab06_lighting.lyr"
+            ],
+            "size": 2114,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/lighting_global.lyr": {
+            "hash": "b352372c19ecc3cb8d0c03745cdd1baad836dacc",
+            "installsize": 2026,
+            "manifest": [
+                "c4f09114780d78259ffc8f313bc4c870d44c7be6 GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/lighting_global.lyr"
+            ],
+            "size": 1240,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/lighting_helpers.lyr": {
+            "hash": "c554d72e6bed336d7a3947ae22b5ce091beaf17e",
+            "installsize": 77351,
+            "manifest": [
+                "536114e398c388bea474dc2881d301455a4c4c55 GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting/lighting_helpers.lyr"
+            ],
+            "size": 5821,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting_night.lyr": {
+            "hash": "93689686ec2ba34caa54bf7844a44701dab33377",
+            "installsize": 1357,
+            "manifest": [
+                "87a5fb728ac3a5fe0d44c351e3f524b6c016d560 GameSDK/GameSDK/levels/singleplayer/woodland/layers/lighting_night.lyr"
+            ],
+            "size": 1058,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/main.lyr": {
+            "hash": "7803520a72285eb08e3905a51e2336563ac9af34",
+            "installsize": 121416,
+            "manifest": [
+                "ff2a554a7a825a73546988a1c4460cb08920534d GameSDK/GameSDK/levels/singleplayer/woodland/layers/main.lyr"
+            ],
+            "size": 19442,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/layers/player_collisions.lyr": {
+            "hash": "acf790dafdc1f7cb3b57271aed11e6eb0ede8825",
+            "installsize": 687163,
+            "manifest": [
+                "2b1121b23f1bc26fb6e605f288fac1f23df1e924 GameSDK/GameSDK/levels/singleplayer/woodland/layers/player_collisions.lyr"
+            ],
+            "size": 113794,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/level.pak": {
+            "hash": "c649eeb13e8238be0a73f4a58e7cc5f8afee31b4",
+            "installsize": 23272170,
+            "manifest": [
+                "be37e788880b9bf91f92c314f87c564b0c13f417 GameSDK/GameSDK/levels/singleplayer/woodland/level.pak"
+            ],
+            "size": 17432046,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/environment.xml": {
+            "hash": "f4cc9b9522ca0b2b87130603695415f82b3372fd",
+            "installsize": 1449,
+            "manifest": [
+                "1acaac470892af6abe5744677e8a056d0b79d0fe GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/environment.xml"
+            ],
+            "size": 1057,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/gametokens.xml": {
+            "hash": "d6d223abf8e0852ebc93c3a17c67279f0a13d0b4",
+            "installsize": 1185,
+            "manifest": [
+                "b5ff0e78e518be63c4d1ac410568250cec60b1df GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/gametokens.xml"
+            ],
+            "size": 588,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/heightmap.dat": {
+            "hash": "79558cbce204384b1640596c76f81507aa4a38be",
+            "installsize": 62045488,
+            "manifest": [
+                "418839dcc8b7a25433e266bf769c60de7cdc9148 GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/heightmap.dat"
+            ],
+            "size": 18811256,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/objectives.xml": {
+            "hash": "6fc0fc4913f24ae35c16c2dbcf10f96dc82b3e2d",
+            "installsize": 799,
+            "manifest": [
+                "1e88f63bee2118b835623dd2875b9b7a5bec035c GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/objectives.xml"
+            ],
+            "size": 572,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/terraintexture.xml": {
+            "hash": "02df4a105083cdd0c2fb48a15624237ffc45b46e",
+            "installsize": 282,
+            "manifest": [
+                "ce822dca2bc9196b9ecf44b2b7ff6f1273fece4c GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/terraintexture.xml"
+            ],
+            "size": 502,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/timeofday.xml": {
+            "hash": "f427e7f51682d2bd5f76418180395ae53c7d5402",
+            "installsize": 185,
+            "manifest": [
+                "3fcc76135e6790479891f3b2211cb9f2eb6abaaf GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/timeofday.xml"
+            ],
+            "size": 510,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/vegetationmap.dat": {
+            "hash": "fc33317de8745b364d8223ad21a86984b66e0796",
+            "installsize": 4290575,
+            "manifest": [
+                "8a55a967fb414d6dee0863fbe9150b5e49f63010 GameSDK/GameSDK/levels/singleplayer/woodland/leveldata/vegetationmap.dat"
+            ],
+            "size": 2379867,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/occluder.ocm": {
+            "hash": "e26518244a64b1eaf305c9bfe600c9dacf70a248",
+            "installsize": 66868,
+            "manifest": [
+                "2ef9dbc055c9f890bbabe85dda8e205d11d99532 GameSDK/GameSDK/levels/singleplayer/woodland/occluder.ocm"
+            ],
+            "size": 43688,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/tags.json": {
+            "hash": "0768c9543e0ae99c6ed84538678f46f836101a96",
+            "installsize": 1731,
+            "manifest": [
+                "724e1c99ada08a1e5567d6c8c706bf8eaaed047b GameSDK/GameSDK/levels/singleplayer/woodland/tags.json"
+            ],
+            "size": 687,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/tags.txt": {
+            "hash": "e5b2cec29d63dee256a99dc6518aa230173d9b12",
+            "installsize": 714,
+            "manifest": [
+                "fb9c1c20c6e6a6434d77212502ccdf8945b4fa05 GameSDK/GameSDK/levels/singleplayer/woodland/tags.txt"
+            ],
+            "size": 571,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/terraintexture.pak": {
+            "hash": "427e5893304d86ef56781f0a9862f24fe1579510",
+            "installsize": 7401145,
+            "manifest": [
+                "313cad5378dc8574d57143339ec5b78953efb7d3 GameSDK/GameSDK/levels/singleplayer/woodland/terraintexture.pak"
+            ],
+            "size": 7403688,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/timedemo.tmd": {
+            "hash": "0df26eea5996c9542359ccbd8c495af8c3a7c815",
+            "installsize": 739800,
+            "manifest": [
+                "b620fde5fb5083f47cfca8490d3d2aeed35a6f49 GameSDK/GameSDK/levels/singleplayer/woodland/timedemo.tmd"
+            ],
+            "size": 737740,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/woodland.dds": {
+            "hash": "0e52be890286b4bd7521c70b12fc327ce14f72f1",
+            "installsize": 2097280,
+            "manifest": [
+                "aa5e3c257e030bbf8f9509c7fa550f4efd5f1338 GameSDK/GameSDK/levels/singleplayer/woodland/woodland.dds"
+            ],
+            "size": 1582111,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/woodland.dds.cryasset": {
+            "hash": "b04244737b0ae00a12e439839f9c8ced6bb7d9cf",
+            "installsize": 320,
+            "manifest": [
+                "a111a5b7ad47b0c3474850c40fbb4681b65523dc GameSDK/GameSDK/levels/singleplayer/woodland/woodland.dds.cryasset"
+            ],
+            "size": 560,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/woodland.level": {
+            "hash": "b3213de99537af33e6bca433643a538997546f7f",
+            "installsize": 1564,
+            "manifest": [
+                "447f51169dff896db47f6b789e9f6ff20b4aee51 GameSDK/GameSDK/levels/singleplayer/woodland/woodland.level"
+            ],
+            "size": 1102,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/levels/singleplayer/woodland/woodland.xml": {
+            "hash": "9a4ccf4292d6acaf1247e2e7898a51a0169eb762",
+            "installsize": 160,
+            "manifest": [
+                "9b5d272fb7ea3667d2e44f951aecee115bf226bc GameSDK/GameSDK/levels/singleplayer/woodland/woodland.xml"
+            ],
+            "size": 484,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/localization/english.pak": {
+            "hash": "5954f23dcd8a9ded3b69f4d5b6b21d039d765845",
+            "installsize": 2356,
+            "manifest": [
+                "cb1cfb69b35cf8579cbb1b6354da9cf123ac5498 GameSDK/GameSDK/localization/english.pak"
+            ],
+            "size": 1282,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/localization/english_xml.pak": {
+            "hash": "d97332eb34cf807d595a4ca902cef2467943cd06",
+            "installsize": 359247,
+            "manifest": [
+                "77128855645bb67c350fda49bf3f7d50af2536bb GameSDK/GameSDK/localization/english_xml.pak"
+            ],
+            "size": 60933,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/localization/german.pak": {
+            "hash": "9cfc3b14b8932c3e033c63319a10619fefcd009e",
+            "installsize": 2048,
+            "manifest": [
+                "267d9410c806e95bfcb9b3c88e2609b896f949e9 GameSDK/GameSDK/localization/german.pak"
+            ],
+            "size": 1154,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/localization/german_xml.pak": {
+            "hash": "0b252a859b15d32c3b4fa246ce3d707fd2f35e12",
+            "installsize": 424037,
+            "manifest": [
+                "f46029d17b86f91bbdf0ed4105c62842f46ad714 GameSDK/GameSDK/localization/german_xml.pak"
+            ],
+            "size": 96230,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/objects-part0.pak": {
+            "hash": "422be5ddad08b8e68258886dfa164b2df1f1462a",
+            "installsize": 1938919573,
+            "manifest": [
+                "ca25d8fd727c930a58f7eeacc0e1a9d666635c3c GameSDK/GameSDK/objects-part0.pak"
+            ],
+            "size": 1931814554,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/objects-part1.pak": {
+            "hash": "6e1d51bf3fd2ec7051ed4bd0d06adeeed44fea1e",
+            "installsize": 320031460,
+            "manifest": [
+                "7d42b0adb7d99006675e9d5a8f19e991fefc41e7 GameSDK/GameSDK/objects-part1.pak"
+            ],
+            "size": 318813499,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/scripts.pak": {
+            "hash": "06b4500425be4cee536f103067b71edbe8fe0f0c",
+            "installsize": 716570,
+            "manifest": [
+                "6084a89117bfa6b499b46148b8139c12952c3a80 GameSDK/GameSDK/scripts.pak"
+            ],
+            "size": 676324,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/textures.pak": {
+            "hash": "4054afb261bdfbbaf907f22f1f7f7049be9a9ebf",
+            "installsize": 1914856885,
+            "manifest": [
+                "ec0c9567ea5c3377720823fe6d35c9c4c25ebf5f GameSDK/GameSDK/textures.pak"
+            ],
+            "size": 1912543761,
+            "type": "bootstrap"
+        },
+        "GameSDK/GameSDK/videos.pak": {
+            "hash": "cfa3999209ee0d4bf0e119a9f85a786b8e15fd3d",
+            "installsize": 10610126,
+            "manifest": [
+                "5a1713185c5fd9f9fa87be7db3a429640581d821 GameSDK/GameSDK/videos.pak"
+            ],
+            "size": 9980756,
+            "type": "bootstrap"
+        },
+        "GameSDK/bin/win_x64/CryGameSDK.dll": {
+            "hash": "9d806130b7fbe2ddc4c73ecf19cd2f6d9f379adf",
+            "installsize": 19873792,
+            "manifest": [
+                "e5012f4113dcf48137f1d55f1454faea24df982a GameSDK/bin/win_x64/CryGameSDK.dll"
+            ],
+            "size": 6453935,
+            "type": "bootstrap"
+        }
+    },
+    "title": "CE_ASSET"
+}
